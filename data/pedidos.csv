@@ -1,0 +1,151 @@
+DataPedido,Regiao,Estado,Vendedor,Item,Unidades,PrecoUnidade,ReceitaTotal
+2024-04-26,Sul,Parana,Leticia,Cadeira de Escritório,4,900.0,3492.72
+2024-05-17,Sul,Santa Catarina,Mariana,Ar-Condicionado,1,2500.0,2425.5
+2024-10-27,Sul,Parana,Fernanda,TV 50'',1,3200.0,3104.64
+2024-06-16,Sudeste,Minas Gerais,Carlos,Notebook,2,3500.0,6791.4
+2024-12-06,Centro-Oeste,Bahia,João,Cadeira de Escritório,2,900.0,1746.36
+2024-10-08,Nordeste,Santa Catarina,Mariana,Notebook,5,3500.0,16978.5
+2024-01-07,Nordeste,Rio de Janeiro,João,Cadeira de Escritório,6,900.0,5239.08
+2024-10-12,Centro-Oeste,Bahia,Fernanda,Máquina de Lavar,3,1800.0,5239.08
+2024-01-08,Sudeste,Goiás,Mariana,Monitor 24'',7,1200.0,8149.68
+2024-09-15,Nordeste,Goiás,Ana,Sofá 3 Lugares,3,1200.0,3492.7200
+2024-04-12,Nordeste,Rio Grande do Sul,Mariana,Notebook,8,3500.0,27165.6
+2024-08-26,Sul,Parana,Guilherme,TV 50'',6,3200.0,18627.84
+2024-06-22,Nordeste,Parana,Rafael,Máquina de Lavar,3,1800.0,5239.08
+2024-08-13,Sudeste,Santa Catarina,Mariana,Smart TV,10,1800.0,17463.6
+2024-06-17,Sul,Minas Gerais,Mariana,Cama Box Casal,4,1000.0,3880.79
+2024-08-04,Sudeste,Rio de Janeiro,Rafael,Micro-ondas,6,400.0,2328.48
+2024-06-24,Sudeste,Rio de Janeiro,Guilherme,Fogão 4 Bocas,7,800.0,5433.12
+2024-06-14,Centro-Oeste,Bahia,Fernanda,Monitor 24'',4,1200.0,4656.96
+2024-11-23,Sul,Rio de Janeiro,Maria,Impressora,9,600.0,5239.08
+2024-02-04,Nordeste,Minas Gerais,Leticia,Cadeira de Escritório,10,900.0,8731.8
+2024-08-17,Sudeste,São Paulo,Rafael,Geladeira,3,2500.0,7276.5
+2024-05-28,Norte,Rio Grande do Sul,Rafael,Smartphone,9,1500.0,13097.69
+2024-01-15,Sul,Goiás,Guilherme,Impressora,6,600.0,3492.72
+2024-10-12,Sudeste,Rio de Janeiro,Maria,Ar-Condicionado,3,2500.0,7276.5
+2024-12-12,Sudeste,Santa Catarina,Paulo,Monitor 24'',5,1200.0,5821.2
+2024-09-05,Nordeste,São Paulo,Fernanda,Monitor 24'',4,1200.0,4656.96
+2024-11-06,Norte,Bahia,João,Sofá 3 Lugares,8,1200.0,9313.92
+2024-05-05,Norte,Rio Grande do Sul,Fernanda,Smart TV,5,1800.0,8731.8
+2024-04-18,Centro-Oeste,Goiás,Maria,Cadeira Gamer,5,700.0,3395.7
+2024-09-07,Sul,Bahia,Fernanda,Caixa de Som,9,800.0,6985.44
+2024-07-18,Nordeste,Santa Catarina,Fernanda,Geladeira,1,2500.0,2425.5
+2024-11-05,Norte,São Paulo,Leticia,Cadeira de Escritório,2,900.0,1746.36
+2024-05-02,Sul,Santa Catarina,Carlos,Notebook,9,3500.0,30561.3
+2024-07-06,Sul,Parana,Maria,Cadeira Gamer,9,700.0,6112.26
+2024-12-12,Centro-Oeste,Rio Grande do Sul,Paulo,Cama Box Casal,5,1000.0,4851.0
+2024-04-20,Sudeste,Minas Gerais,Carlos,TV 50'',10,3200.0,31046.399
+2024-06-03,Centro-Oeste,Minas Gerais,Rafael,Impressora,1,600.0,582.12
+2024-04-23,Nordeste,São Paulo,João,Fogão 4 Bocas,8,800.0,6209.28
+2024-03-16,Sul,Santa Catarina,João,Cadeira de Escritório,2,900.0,1746.36
+2024-06-22,Sudeste,Goiás,Paulo,TV 50'',5,3200.0,15523.199999999999
+2024-05-11,Sul,Minas Gerais,João,Cadeira Gamer,4,700.0,2716.56
+2024-12-27,Sul,Goiás,Leticia,Cadeira Gamer,6,700.0,4074.84
+2024-07-07,Nordeste,Rio Grande do Sul,Paulo,TV 50'',8,3200.0,24837.12
+2024-10-01,Norte,Santa Catarina,Paulo,Micro-ondas,1,400.0,388.08
+2024-04-25,Sul,Rio de Janeiro,Guilherme,Sofá 3 Lugares,9,1200.0,10478.16
+2024-09-25,Centro-Oeste,Santa Catarina,Fernanda,Geladeira,7,2500.0,16978.5
+2024-01-27,Sudeste,Goiás,Fernanda,Micro-ondas,6,400.0,2328.48
+2024-10-09,Norte,Santa Catarina,Mariana,Geladeira,8,2500.0,19404.0
+2024-06-08,Sudeste,Parana,Fernanda,Geladeira,4,2500.0,9702.0
+2024-12-03,Sul,Bahia,Leticia,Cadeira Gamer,2,700.0,1358.28
+2024-07-02,Nordeste,Minas Gerais,Maria,Caixa de Som,3,800.0,2328.48
+2024-05-02,Sudeste,Goiás,Carlos,Micro-ondas,6,400.0,2328.48
+2024-07-26,Norte,Parana,Guilherme,Fogão 4 Bocas,5,800.0,3880.7999999999997
+2024-08-06,Sudeste,São Paulo,Mariana,Fogão 4 Bocas,3,800.0,2328.48
+2024-06-03,Nordeste,Parana,Mariana,Ar-Condicionado,1,2500.0,2425.5
+2024-11-13,Sudeste,Parana,Rafael,Cama Box Casal,4,1000.0,3880.7999999999997
+2024-07-22,Sul,Bahia,Mariana,Cadeira Gamer,3,700.0,2037.42
+2024-05-03,Sul,Parana,Guilherme,Smartphone,1,1500.0,1455.3
+2024-10-09,Sul,Parana,Paulo,Fogão 4 Bocas,8,800.0,6209.28
+2024-08-02,Nordeste,Santa Catarina,Maria,Cama Box Casal,6,1000.0,5821.2
+2024-06-03,Sul,Bahia,Carlos,TV 50'',2,3200.0,6209.28
+2024-10-26,Nordeste,Rio de Janeiro,Carlos,Micro-ondas,10,400.0,3880.7999999999997
+2024-04-10,Sul,Minas Gerais,Rafael,Cama Box Casal,3,1000.0,2910.6
+2024-10-19,Norte,Bahia,João,Cadeira Gamer,7,700.0,4753.98
+2024-09-03,Nordeste,Santa Catarina,Fernanda,Cadeira Gamer,3,700.0,2037.42
+2024-07-14,Centro-Oeste,Rio de Janeiro,Fernanda,Cama Box Casal,3,1000.0,2910.6
+2024-10-24,Centro-Oeste,Parana,Maria,Cadeira Gamer,3,700.0,2037.42
+2024-09-07,Norte,Rio Grande do Sul,Rafael,Geladeira,7,2500.0,16978.5
+2024-08-28,Sul,Minas Gerais,Ana,TV 50'',3,3200.0,9313.92
+2024-10-09,Nordeste,Parana,Maria,Sofá 3 Lugares,8,1200.0,9313.92
+2024-10-22,Nordeste,Minas Gerais,João,Máquina de Lavar,1,1800.0,1746.36
+2024-07-07,Sudeste,Bahia,Fernanda,Monitor 24'',5,1200.0,5821.2
+2024-11-10,Norte,São Paulo,Rafael,Smart TV,10,1800.0,17463.6
+2024-11-24,Sul,Goiás,Rafael,Cadeira Gamer,6,700.0,4074.84
+2024-08-03,Sul,Minas Gerais,Fernanda,Cadeira Gamer,1,700.0,679.14
+2024-06-03,Norte,Parana,Rafael,Cadeira Gamer,8,700.0,5433.12
+2024-02-04,Nordeste,Goiás,Rafael,Micro-ondas,9,400.0,3492.72
+2024-07-11,Nordeste,Parana,Mariana,Fogão 4 Bocas,5,800.0,3880.7999999999997
+2024-02-17,Sudeste,Parana,Leticia,Ar-Condicionado,8,2500.0,19404.0
+2024-03-17,Norte,Minas Gerais,Leticia,Micro-ondas,10,400.0,3880.7999999999997
+2024-09-01,Centro-Oeste,Bahia,Mariana,Máquina de Lavar,2,1800.0,3492.72
+2024-10-25,Norte,Minas Gerais,Carlos,Ar-Condicionado,5,2500.0,12127.5
+2024-10-11,Sul,Santa Catarina,Leticia,Impressora,9,600.0,5239.08
+2024-12-17,Sul,Santa Catarina,Rafael,Sofá 3 Lugares,2,1200.0,2328.48
+2024-10-15,Nordeste,Rio de Janeiro,Rafael,Caixa de Som,4,800.0,3104.64
+2024-07-09,Norte,São Paulo,Mariana,Cama Box Casal,5,1000.0,4851.0
+2024-10-07,Nordeste,Rio Grande do Sul,Maria,Cama Box Casal,1,1000.0,970.1999999999999
+2024-10-28,Nordeste,Parana,Mariana,Monitor 24'',7,1200.0,8149.68
+2024-07-16,Sudeste,Minas Gerais,Ana,Máquina de Lavar,4,1800.0,6985.44
+2024-01-17,Sudeste,Bahia,Maria,Notebook,5,3500.0,16978.5
+2024-10-18,Centro-Oeste,Rio Grande do Sul,Rafael,Micro-ondas,2,400.0,776.16
+2024-05-25,Nordeste,Rio de Janeiro,Ana,Cadeira de Escritório,9,900.0,7858.62
+2024-12-14,Nordeste,Rio de Janeiro,Carlos,Cadeira de Escritório,1,900.0,873.18
+2024-09-07,Sul,Rio de Janeiro,Rafael,TV 50'',1,3200.0,3104.64
+2024-05-03,Norte,São Paulo,Mariana,Smartphone,1,1500.0,1455.3
+2024-02-23,Norte,Minas Gerais,João,Cadeira Gamer,4,700.0,2716.56
+2024-06-23,Centro-Oeste,Santa Catarina,Ana,Cadeira Gamer,8,700.0,5433.12
+2024-03-15,Nordeste,Santa Catarina,Maria,Cama Box Casal,3,1000.0,2910.6
+2024-05-24,Nordeste,Rio de Janeiro,Guilherme,Sofá 3 Lugares,2,1200.0,2328.48
+2024-02-10,Sudeste,São Paulo,Guilherme,Cadeira Gamer,7,700.0,4753.98
+2024-12-08,Sul,Rio Grande do Sul,Maria,TV 50'',2,3200.0,6209.28
+2024-07-23,Nordeste,Rio Grande do Sul,Guilherme,Micro-ondas,5,400.0,1940.3999999999999
+2024-10-21,Sul,Goiás,Guilherme,Smartphone,1,1500.0,1455.3
+2024-04-05,Nordeste,Goiás,Paulo,Máquina de Lavar,7,1800.0,12224.519999999999
+2024-06-07,Norte,Bahia,Guilherme,Cadeira de Escritório,1,900.0,873.18
+2024-05-06,Sudeste,Goiás,João,Cadeira de Escritório,7,900.0,6112.259999999999
+2024-03-06,Nordeste,Rio de Janeiro,Paulo,Geladeira,4,2500.0,9702.0
+2024-08-10,Norte,Rio de Janeiro,Mariana,Fogão 4 Bocas,5,800.0,3880.7999999999997
+2024-04-05,Centro-Oeste,Santa Catarina,Maria,Cadeira de Escritório,1,900.0,873.18
+2024-11-01,Nordeste,Goiás,Rafael,Ar-Condicionado,3,2500.0,7276.5
+2024-06-06,Sudeste,Rio Grande do Sul,Leticia,Geladeira,6,2500.0,14553.0
+2024-02-26,Sul,Minas Gerais,Paulo,Máquina de Lavar,6,1800.0,10478.16
+2024-08-05,Nordeste,Rio Grande do Sul,Paulo,Sofá 3 Lugares,1,1200.0,1164.24
+2024-03-07,Centro-Oeste,São Paulo,Mariana,Micro-ondas,9,400.0,3492.72
+2024-01-26,Sul,Santa Catarina,Carlos,Smart TV,5,1800.0,8731.8
+2024-04-23,Centro-Oeste,São Paulo,João,Smart TV,7,1800.0,12224.519999999999
+2024-12-23,Nordeste,Bahia,Carlos,TV 50'',9,3200.0,27941.76
+2024-12-06,Sul,Parana,Guilherme,Smart TV,3,1800.0,5239.08
+2024-08-17,Sul,Minas Gerais,Maria,Ar-Condicionado,2,2500.0,4851.0
+2024-12-25,Centro-Oeste,Santa Catarina,Fernanda,TV 50'',10,3200.0,31046.399999999998
+2024-06-09,Nordeste,Santa Catarina,Paulo,Smartphone,1,1500.0,1455.3
+2024-06-20,Sudeste,Parana,Leticia,Notebook,10,3500.0,33957.0
+2024-12-28,Sul,Rio de Janeiro,Paulo,Cadeira de Escritório,1,900.0,873.18
+2024-07-13,Sudeste,Minas Gerais,Carlos,Geladeira,9,2500.0,21829.5
+2024-10-07,Nordeste,São Paulo,Carlos,Sofá 3 Lugares,9,1200.0,10478.16
+2024-12-20,Nordeste,Bahia,Carlos,Fogão 4 Bocas,3,800.0,2328.48
+2024-12-17,Norte,Bahia,Paulo,Smart TV,2,1800.0,3492.72
+2024-06-22,Sudeste,Rio Grande do Sul,Fernanda,Smart TV,9,1800.0,15717.24
+2024-02-09,Norte,São Paulo,Paulo,Fogão 4 Bocas,4,800.0,3104.64
+2024-05-20,Norte,São Paulo,Fernanda,Cama Box Casal,1,1000.0,970.1999999999999
+2024-05-04,Centro-Oeste,Bahia,Paulo,Fogão 4 Bocas,1,800.0,776.16
+2024-09-11,Sudeste,Rio de Janeiro,Guilherme,Geladeira,3,2500.0,7276.5
+2024-03-15,Sul,Rio Grande do Sul,Carlos,TV 50'',5,3200.0,15523.199999999999
+2024-06-24,Norte,Minas Gerais,João,Máquina de Lavar,3,1800.0,5239.08
+2024-10-07,Sudeste,Santa Catarina,Carlos,Geladeira,8,2500.0,19404.0
+2024-04-21,Norte,Goiás,Fernanda,Smartphone,8,1500.0,11642.4
+2024-08-06,Sul,Goiás,João,TV 50'',4,3200.0,12418.56
+2024-08-04,Sudeste,Rio Grande do Sul,Guilherme,TV 50'',8,3200.0,24837.12
+2024-08-04,Sul,São Paulo,Maria,Ar-Condicionado,1,2500.0,2425.5
+2024-11-22,Nordeste,Parana,Carlos,Cadeira de Escritório,1,900.0,873.18
+2024-09-06,Centro-Oeste,Goiás,Carlos,Smart TV,2,1800.0,3492.72
+2024-08-04,Nordeste,Minas Gerais,Guilherme,Smartphone,7,1500.0,10187.1
+2024-09-15,Sul,Santa Catarina,João,TV 50'',9,3200.0,27941.76
+2024-08-23,Centro-Oeste,Bahia,Maria,Fogão 4 Bocas,7,800.0,5433.12
+2024-09-25,Nordeste,Goiás,Ana,Smart TV,3,1800.0,5239.08
+2024-12-26,Norte,São Paulo,Rafael,Notebook,4,3500.0,13582.8
+2024-01-14,Centro-Oeste,Parana,Carlos,Fogão 4 Bocas,6,800.0,4656.96
+2024-07-11,Centro-Oeste,Rio de Janeiro,João,Caixa de Som,4,800.0,3104.64
+2024-06-07,Norte,Parana,Maria,Fogão 4 Bocas,7,800.0,5433.12
+2024-01-06,Nordeste,Bahia,Paulo,Cadeira Gamer,9,700.0,6112.26
