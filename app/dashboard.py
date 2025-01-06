@@ -40,7 +40,7 @@ def main():
         filtered_data = show_sidebar(df)
 
         # Exibindo o DataFrame filtrado
-        st.dataframe(filtered_data)  # Exibe a tabela filtrada com os dados
+        st.dataframe(filtered_data, height=500)  # Exibe a tabela filtrada com os dados
 
         # Exibindo os KPIs
         show_kpis(filtered_data)
